@@ -55,6 +55,9 @@ The goal was to configure a functional NIDS using tools such as **Suricata** to 
    Extracted traffic features were used to test ML models for classifying malicious behavior.
 
 ---
+[View the Final Presentation (PDF)](./presentation/Sistema-de-Deteccao-de-Intrusoes-na-Rede-NIDS.pdf)
+[View the Final Report (PDF)](./report/)
+---
 
 ## Deliverables
 
