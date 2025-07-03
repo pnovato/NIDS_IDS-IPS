@@ -56,7 +56,8 @@ The goal was to configure a functional NIDS using tools such as **Suricata** to 
 
 ---
 **[View the Final Presentation (PDF)](./Sistema-de-Deteccao-de-Intrusoes-na-Rede-NIDS.pdf)**
-**[View the Final Report (PDF)](./Relatório LPI(2).pdf)**
+
+**[View the Final Report (PDF)](./Relatório-LPI(2).pdf)**
 ---
 
 ## Deliverables
