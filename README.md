@@ -55,9 +55,9 @@ The goal was to configure a functional NIDS using tools such as **Suricata** to 
    Extracted traffic features were used to test ML models for classifying malicious behavior.
 
 ---
-**<a href="https://github.com/pnovato/NIDS_IDS-IPS/raw/main/Sistema-de-Deteccao-de-Intrusoes-na-Rede-NIDS.pdf" target="_blank">View the Final Presentation (PDF)</a>**
+## <a href="https://github.com/pnovato/NIDS_IDS-IPS/raw/main/Sistema-de-Deteccao-de-Intrusoes-na-Rede-NIDS.pdf" target="_blank">View the Final Presentation (PDF)</a>
 
-**<a href="https://github.com/pnovato/NIDS_IDS-IPS/raw/main/Relatório LPI(2).pdf" target="_blank">View the Final Report (PDF)</a>**
+## <a href="https://github.com/pnovato/NIDS_IDS-IPS/raw/main/Relatório LPI(2).pdf" target="_blank">View the Final Report (PDF)</a>
 ---
 
 ## Deliverables
